@@ -1,4 +1,4 @@
-# WinSock-Client-Sever-C-
+# WinSock-Client-Sever-C++
 An application which was built by C++
 
 Once launched the client should provide at least a standard console interface (cout/cin) supporting the following commands:
